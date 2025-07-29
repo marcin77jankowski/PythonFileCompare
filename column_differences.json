@@ -1,0 +1,35 @@
+{
+  "POR": [],
+  "SECSHORT": [
+    {
+      "join": {
+        "TRANSEX": "T18"
+      },
+      "value1": "S3",
+      "value2": "S4"
+    }
+  ],
+  "PAY_PC": [
+    {
+      "join": {
+        "TRANSEX": "T18"
+      },
+      "value1": 795068.4739,
+      "value2": 323266.109
+    },
+    {
+      "join": {
+        "TRANSEX": "T23"
+      },
+      "value1": 549788.1853,
+      "value2": 376204.955
+    },
+    {
+      "join": {
+        "TRANSEX": "T30"
+      },
+      "value1": 363483.3804,
+      "value2": 501822.0786
+    }
+  ]
+}

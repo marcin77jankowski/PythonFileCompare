@@ -1,0 +1,12 @@
+{
+  "A": {
+    "join_cols": ["TRANSEX"],
+    "exclude_cols": ["POR"],
+    "sep": ";"
+  },
+  "B": {
+    "join_cols": ["TRANSEX"],
+    "exclude_cols": ["AI_PC"],
+    "sep": ";"
+  }
+}
